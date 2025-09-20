@@ -1,5 +1,5 @@
-# PIPELINE
-**This pipeline was primarily constructed to analyze genomes of Klebsiella pneumoniae from blood cultures**
+# 🧬 PIPELINE
+**This pipeline was primarily constructed to analyze genomes of ***Klebsiella pneumoniae*** from blood cultures**
 ---
 ### 1. Kleborate v3.1.3 
 -	for species confirmation, detection of antimicrobial resistance (AMR) genes, virulence factors, multilocus sequence typing (MLST), core genome MLST (cgMLST), clonal group identification, hypermucoidy-associated genes (rmpA, rmpA2), and capsular (K) and lipopolysaccharide (O) serotype prediction.
