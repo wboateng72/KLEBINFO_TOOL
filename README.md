@@ -11,7 +11,7 @@
   - Multilocus sequence typing (MLST)  
   - Core genome MLST (cgMLST)  
   - Clonal group identification  
-  - Detection of hypermucoidy-associated genes (**rmpA*, *rmpA2*)  
+  - Detection of hypermucoidy-associated genes (*rmpA*, *rmpA2*)  
   - Prediction of capsular (K) and lipopolysaccharide (O) serotypes
      
 ### 2. Abricate
