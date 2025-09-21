@@ -10,7 +10,7 @@ RUN conda config --add channels defaults \
 
 WORKDIR /opt/klebinfo
 
-COPY $(realpath ./README.txt) /README.txt /opt/klebinfo/
+COPY ./README.txt /opt/klebinfo/
 
 # -------------------------
 # System dependencies
