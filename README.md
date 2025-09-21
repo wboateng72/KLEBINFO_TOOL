@@ -2,7 +2,7 @@
 **This tool was constructed to analyze genomes of Klebsiella**
 ---
 
-## Bioinformatics Tools / Dependencie
+## Bioinformatics Tools / Dependencies
 ### 1. Kleborate 
 - Used for:
   - Species confirmation  
