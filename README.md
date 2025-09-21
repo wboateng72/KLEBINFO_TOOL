@@ -1,5 +1,5 @@
 # 🧬 KLEBINFO TOOL
-**This tool was primarily constructed to analyze genomes of ***Klebsiella pneumoniae*** from blood cultures**
+**This tool was constructed to analyze genomes of Klebsiella**
 ---
 ## Bioinformatics Tools / Dependencies
 
