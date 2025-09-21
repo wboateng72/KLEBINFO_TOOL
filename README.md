@@ -1,8 +1,8 @@
 # 🧬 KLEBINFO TOOL
 **This tool was constructed to analyze genomes of Klebsiella**
 ---
-## Bioinformatics Tools / Dependencies
 
+## Bioinformatics Tools / Dependencie
 ### 1. Kleborate 
 - Used for:
   - Species confirmation  
