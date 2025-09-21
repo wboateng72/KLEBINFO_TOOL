@@ -1,4 +1,4 @@
-This docker was created by William Boateng for the purpose of Klebsiella pneumoniae analysis (2025)
+This docker was created by William Boateng for the purpose of Klebsiella analysis (2025)
 
 The pipeline contains the tools:
 
