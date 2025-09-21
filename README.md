@@ -1,7 +1,7 @@
-# 🧬 PIPELINE
-**This pipeline was primarily constructed to analyze genomes of ***Klebsiella pneumoniae*** from blood cultures**
+# 🧬 KLEBINFO TOOL
+**This tool was primarily constructed to analyze genomes of ***Klebsiella pneumoniae*** from blood cultures**
 ---
-## Bioinformatics Tools
+## Bioinformatics Tools / Dependencies
 
 ### 1. Kleborate 
 - Used for:
